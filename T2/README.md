@@ -4,7 +4,7 @@
 
 Te doy la bienvenida a mi README, según mi computador, tenía los parámetros de tiempo y de memoria dentro del rango esperado hasta el test Hard 6. Importante que cambié el flag del MAKEFILE para optimizar. Éxito :rocket:
 
-Código base para tu tarea 2.
+Para esta tarea debíamos trabajar con tablas de hash para identificar patrones en un patrón mayor dado.
 
 ## Requerimientos
 Debes tener instalada la librería `libpng` para poder leer las imágenes cómo matrices.  

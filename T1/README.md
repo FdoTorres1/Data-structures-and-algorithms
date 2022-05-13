@@ -1,5 +1,6 @@
 # Base-T1-2021-1
-Código base para tu tarea 1.
+
+Para esta tarea debíamos crear un maxtree para procesar imágenes.
 
 ## Requerimientos
 Debes tener instalada la librería `libpng` para poder leer las imágenes cómo matrices.  
@@ -27,7 +28,7 @@ Filtrar nodos con delta menor a 0.25:
 
 ## Notas
 
-Por favor les pido en lo posible revisen mi código y no basen mi nota solo en los output, encuentro una pena que por más que uno haya avanzado si no se tiene el output idéntico no se cuenta. Siento que aprendí mucho con esta tarea a pesar de que no lo logré.
+Esta fue una tarea que no pude desarrollar completamente.
 
 Para esta tarea utilicé las siguientes referencias como apoyo:
 

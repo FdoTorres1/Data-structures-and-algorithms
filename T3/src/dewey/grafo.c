@@ -10,7 +10,6 @@ Grafo* grafo_init(int n_clientes, int n_centros, int E)
   int V = n_clientes + n_centros;
 
   grafo -> edge_array = malloc(E * sizeof(Edge*));
-  // grafo -> nodo_array = malloc(V * sizeof(Nodo*));
   grafo -> E = E;
   grafo -> V = V;
   grafo -> n_clientes = n_clientes;
@@ -149,8 +148,6 @@ void kruskal(Grafo* grafo, FILE* output_file)
 
     if (x != y && (subsets[x].centro == -1 || subsets[y].centro == -1))
     {
-      // si en alguno de los dos conjuntos no hay plantas, agregar
-      // check_centro
 
       solution[e++] = next_edge;
       apply_union(subsets, x, y);

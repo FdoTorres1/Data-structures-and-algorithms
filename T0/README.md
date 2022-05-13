@@ -7,6 +7,7 @@ El programa en c se compila con ```make``` y se ejecuta con
 
 ``` ./kevin-21 tests/test.txt out.txt```
 
+Esta tarea era introductoria a C, debíamos tomar como base código en python.
 
 Hola! Bienvenid@ a mi README.
 

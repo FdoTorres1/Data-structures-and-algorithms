@@ -1,5 +1,6 @@
 # Tarea 3
-Código base para tu tarea.
+
+Para esta tarea debíamos trabajar con MST, en mi caso utilicé el método de Kruskal.
 
 ## Compilar y ejecutar
 Compilar:
